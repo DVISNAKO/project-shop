@@ -22,6 +22,7 @@ const Sidebar = () => {
           ))}
         </ul>
       </nav>
+
     </section>
   );
 };
